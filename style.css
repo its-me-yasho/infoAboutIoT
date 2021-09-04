@@ -13,18 +13,18 @@ h1{
 	border-radius:5px 96px;
 }
 p{
-	font-size:24px;
-	font-family:arial;
-	padding-left:50px;
-	text-align:justify;
-	padding-right:10;
+	font-size: 140%;
+    font-family: arial;
+    padding-left: 3%;
+    text-align: justify;
+    padding-right: 3%;
 }
 h2{
-	background-color:#70b8ff;
-	font-size:40px;
-	font-family:Arial Black;
-	padding-left:25px;
-	border-radius:30px;
+	background-color: #70b8ff;
+    font-size: 200%;
+    font-family: Arial Black;
+    padding-left: 2%;
+    border-radius: 18px;
 }
 ul{
 	font-size:24px;
@@ -47,22 +47,22 @@ a{
 }
 img{
 	
-	height:310px;
-	width:49%;
-	padding-right:5px;
-	padding-left:5px;
-	padding-bottom:5px;
-	padding-top:5px;
-	border-radius:25px;
+	height: 325px;
+    width: 48%;
+    padding-right: 0.7%;
+    padding-left: 0.7%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-radius: 65px;
 }
 h3{
-	background-color:white;
-	text-align:center;
-	font-size:40px;
-	font-family:Constantia;
-	margin-left:350px;
-	margin-right:350px;
-	border-radius:24px;
+	background-color: white;
+    text-align: center;
+    font-size: 225%;
+    font-family: Constantia;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 24px;
 }
 button {
   border: none;
